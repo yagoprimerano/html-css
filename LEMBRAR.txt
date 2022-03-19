@@ -1,0 +1,14 @@
+tomar cuidado com  diferentes tamanhos de imagens em dispositivos diferentes (cell, pc)
+imagens dinamicas e que se adpaptam sozinhas
+
+texto longo site -> fontes nao serifadas, nao ter espaço lateral mto curto (monno espaçda tlvez?)
+
+Ctrl+Shift+P para envelopar
+
+texto align center poemas centralizados
+
+Dica: Para deixar a imagem responsivo sem precisar utilizar diversos formatos de arquivos,  configure o css da tag IMG para width 100% EX:
+
+img {
+    width: 100%;
+}

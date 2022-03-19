@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+h1#principal {
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+.basico {
+    color: pink;
+}
+
+.intermerdiario {
+    color: violet;
+}
+
+.avancado {
+    color: brown;
+}
